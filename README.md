@@ -1,2 +1,2 @@
 # App-Inventor
-App Inventor İle Sağlık Uygulaması
+App Inventor İle Sağlık Uygulaması.
