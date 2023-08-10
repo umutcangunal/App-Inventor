@@ -1,0 +1,4 @@
+*Mobil Uygulama Geliştirme 
+*Umutcan Günal 
+*1820030025
+*Uygulamayı tekrardan kontrol edip çalışır halde oldugunu gördüm ve sisteme yükledim
